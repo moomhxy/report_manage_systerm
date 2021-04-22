@@ -1,0 +1,8 @@
+mysql:
+  user: root
+  password: hu123123
+  host: 127.0.0.1
+  port: 3306
+  dbname: growth
+
+port: 9090
